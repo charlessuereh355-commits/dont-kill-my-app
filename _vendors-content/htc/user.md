@@ -1,4 +1,5 @@
----
+https://github.com/zhanghai/ComposePreference.git---
+
 manufacturer:
     - htc
 
